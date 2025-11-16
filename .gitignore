@@ -28,3 +28,6 @@ ENV/
 .DS_Store
 Thumbs.db
 
+# Archivos de otros proyectos
+organizar.py
+
